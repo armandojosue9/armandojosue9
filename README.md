@@ -1,3 +1,5 @@
+![Lunar aerospace banner](assets/lunar-banner.png)
+
 # Hi, I'm Armando J. Vélez Santiago
 
 Software Engineering student at the University of Puerto Rico at Mayagüez (UPRM), expected to graduate in May 2030. I am interested in software development, engineering systems, and aerospace technology.
