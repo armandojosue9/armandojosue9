@@ -1,4 +1,4 @@
-![Lunar aerospace banner](assets/lunar-banner.png)
+![Lunar aerospace banner](assets/lunar-banner-armando.png)
 
 # Hi, I'm Armando J. Vélez Santiago
 
